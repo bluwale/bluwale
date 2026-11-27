@@ -4,7 +4,7 @@
 | --- | --- |
 | CompTIA Security+ certified. My team placed **2nd of 15** in RBC’s Splunk Boss of the SOC competition. | I co-designed a [Clover ETL pipeline](https://github.com/bluwale/clover-financial-insights-pipeline) for two stores. It syncs changed records nightly and flags invalid rows for review. |
 | **🔐 Identity & access** | **🎮 Game development** |
-| I worked with SAP NS2 AccessHub during my IT internship at Crave Infotech. | I built interfaces and enemy patrols in Godot at Dough Dough Digital. Our [Python TicTacToe “AI”](https://github.com/bluwale/TicTacToe) had a simpler job: block your win and look for its own. |
+| I worked with SAP NS2 AccessHub during my IT internship at Crave Infotech. | I built interfaces and enemy patrols in Godot at Dough Dough Digital. My [Python TicTacToe “AI”](https://github.com/bluwale/TicTacToe) had a simpler job: block your win and look for its own. |
 
 ### Tech stack
 
