@@ -15,7 +15,7 @@
 **Infrastructure**  
 ![Linux](https://img.shields.io/badge/Linux-254E72?style=flat-square&logo=linux&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-254E72?style=flat-square&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-254E72?style=flat-square&logo=cloudflare&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-254E72?style=flat-square&logo=githubactions&logoColor=white)
 
-**Certifications** · CompTIA Security+ · Microsoft Azure Fundamentals (AZ-900)
+**Certifications** · CompTIA Security+ · Microsoft Azure Fundamentals (AZ-900) · CyberStart Canada Intermediate Pathway (in progress)
 
 ### Connect
 
@@ -23,4 +23,4 @@ I'm looking for a **Summer 2027 security engineering or automation internship** 
 
 [LinkedIn ↗](https://www.linkedin.com/in/saad-sanaullah-2630101b5/) · [Email me ↗](mailto:saad.sanaullah04@gmail.com)
 
-**Off the clock**　⚽ Soccer　·　🥊 MMA　·　🏎️ Cars
+**Off the clock**　⚽ Soccer　·　🎬 Movies　·　🏎️ Cars
