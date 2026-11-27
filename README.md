@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | CompTIA Security+ certified. My team placed **2nd of 15** in RBC’s Splunk Boss of the SOC competition. | I co-designed a [Clover ETL pipeline](https://github.com/bluwale/clover-financial-insights-pipeline) for two stores. It syncs changed records nightly and flags invalid rows for review. | I built interfaces and enemy patrols in Godot at Dough Dough Digital. My [Python TicTacToe “AI”](https://github.com/bluwale/TicTacToe) had a simpler job: block your win and look for its own. |
 
-### Tech stack
+### ![Tech stack](./assets/tech-stack-heading.svg)
 
 **Security**  
 ![Cortex XSOAR](https://img.shields.io/badge/Cortex%20XSOAR-155E63?style=flat-square) ![Symantec DLP](https://img.shields.io/badge/Symantec%20DLP-155E63?style=flat-square) ![Splunk](https://img.shields.io/badge/Splunk-155E63?style=flat-square&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-155E63?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-155E63?style=flat-square&logo=wireshark&logoColor=white)
@@ -17,10 +17,10 @@
 
 **Certifications** · CompTIA Security+ · Microsoft Azure Fundamentals (AZ-900) · CyberStart Canada
 
-### Connect
+### ![Connect](./assets/connect-heading.svg)
 
 I'm looking for a **Summer 2027 security engineering or automation internship** in Toronto.
 
 [LinkedIn ↗](https://www.linkedin.com/in/saad-sanaullah-2630101b5/) · [Email me ↗](mailto:saad.sanaullah04@gmail.com)
 
-**Off the clock**　⚽ Soccer　·　🎬 Movies　·　🏎️ Cars
+**Off the clock**　⚽ Soccer　·　🎬 [Movies](https://letterboxd.com/bluwale/)　·　🏎️ Cars
